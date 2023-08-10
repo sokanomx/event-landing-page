@@ -1,7 +1,4 @@
-.jumbotron{
-    text-center;
-    /*-ms-flex-align: center;*/
-    height: 200px;
-    background-image: url("/img/Flowers.jpg");
-    background-size: cover;
+
+.speakers{
+  padding: 100px;
 }
